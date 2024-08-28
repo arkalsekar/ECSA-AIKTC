@@ -1,0 +1,1 @@
+console.log("Welcome to the Elite Club by AIKTC SoET !!")
